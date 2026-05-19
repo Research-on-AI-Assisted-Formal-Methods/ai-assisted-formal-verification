@@ -41,7 +41,7 @@ The authors implement a system: DAISY (Dafny Assertion Inference SYstem), which 
     - The examples are given to an LLM that then generates 10 candidate assertions per location.
  
 
-### Contribution of this paper
+## Contributions
 
 1. They are generating multiple assertions, compared to previous works only worked on one-assertion generation.
 2. LLM + heuristc approach outperforms pure-LLM.
