@@ -13,3 +13,13 @@ Link: https://arxiv.org/abs/2511.15403
 
 
 Idea: introduces 'DAISY' a tool to infer missing helper assertions in Dafny programs, making proof writing a bit easier. 
+
+
+
+## Reasoning 
+
+[to add] 
+1. A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems
+
+
+https://arxiv.org/abs/2504.09037
