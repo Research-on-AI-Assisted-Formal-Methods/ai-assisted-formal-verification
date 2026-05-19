@@ -40,4 +40,29 @@ DAISY uses a two-stage pipeline:
     - The examples are given to an LLM that then generates 10 candidate assertions per location.
  
 
+### Contribution of this paper
+
+1. They are generating multiple assertions, previous works only worked on one-assertion generation.
+2. LLM + heuristc approach outperforms pure-LLM.
+3. Detailed analysis on assertion 'localization'
+4. Extended DafnyBench benchmark.
+5. Taxonomy of assertions, and analysis of increasing inference difficulty.
+6. Open-source on github.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
